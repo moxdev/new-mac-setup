@@ -1,0 +1,3 @@
+#!/bin/sh <br>brew cask install iterm2 <br>brew cask install itsycal  <br>brew cask install alfred <br>brew cask install bettertouchtool <br>brew cask install cheatsheet <br>brew cask install dash <br>brew cask install filezilla <br>brew cask install cyberduck <br>brew cask install slack <br>brew cask install sublime-text <br>brew cask install private-internet-access <br>brew cask install spotify <br>brew cask install commander-one <br>brew cask install spotify <br>brew cask install dropbox
+#
+#<br>brew cask install utorrent <br>brew cask install skitch <br>brew cask install growlnotify <br>brew cask install crashplan <br>brew cask install the-unarchiver
