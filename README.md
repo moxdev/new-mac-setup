@@ -24,7 +24,10 @@ Install scripts for setting up a new mac
 
 brew cask cleanup
 
-
+# References
+[Homebrew Cask](https://caskroom.github.io/)
+[Homebrew Cask Docs](https://github.com/caskroom/homebrew-cask#learn-more)
+[How to make a cask install script](http://lifehacker.com/how-to-make-your-own-bulk-app-installer-for-os-x-1586252163)
 
 
 
