@@ -14,7 +14,13 @@ Install scripts for setting up a new mac
         Error: nothing to install```
 
 # Step 3
+- make file executable
+    - cd into file directory and run `chmod a+x caskconfig.sh`
 - run `caskconfig.sh`
+
+# Step 4
+- on the new mac cd into direcctory and run
+- `./caskconfig.sh`
 
 
 
